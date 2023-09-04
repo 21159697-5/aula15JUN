@@ -1,2 +1,2 @@
-# Commit 1 
-Essas alterações são devidas as solicitações efetuadas pelo mediador da atividade
+# Commit 2 
+Essas novas alterações são devidas as solicitações efetuadas pelo mediador da atividade
